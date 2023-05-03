@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <enabled-global>
+      <option value="Format code using black" />
+      <option value="Format imports using isort" />
+    </enabled-global>
+  </component>
+</project>
