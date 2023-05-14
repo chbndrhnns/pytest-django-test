@@ -21,3 +21,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.pytest.ini_options]
 DJANGO_SETTINGS_MODULE = "myfirst.settings"
+FAIL_INVALID_TEMPLATE_VARS = true
+python_files = ["test_*.py",]
