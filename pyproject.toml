@@ -23,3 +23,4 @@ build-backend = "poetry.core.masonry.api"
 DJANGO_SETTINGS_MODULE = "myfirst.settings"
 FAIL_INVALID_TEMPLATE_VARS = true
 python_files = ["test_*.py",]
+pythonpath = ["myfirst"]
